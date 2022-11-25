@@ -1,4 +1,4 @@
-### Opa! Eu sou o Joás Jordson ⚡
+### Opa! Eu sou Joás Jordson ⚡
 <div>
   <a href="https://github.com/J-Jordson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J-Jordson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
